@@ -1,0 +1,82 @@
+body {
+    background-image: url(Imagem\ do\ WhatsApp\ de\ 2024-10-01\ à\(s\)\ 18.37.08_392670e0.jpg);
+    background-size: cover;
+     color: black;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     
+    }
+    header {
+        font-size: 20px;
+        text-decoration-line: underline; text-decoration-color: black ;
+        color: rgb(247, 60, 116);
+    }
+body img {
+    text-align: right;
+    padding: 5px 5px;
+    border: 5px black solid;
+    border-radius: 30px;
+}
+
+/*tamanho e largura da foto do github e linkedin*/
+footer img {
+    border: none;
+    width: 40px;
+    height: 40px;
+}
+/*aqui é pra centralizar os bglh do git e linkedin*/
+footer {
+    text-decoration: none;
+    display: flex;
+justify-content: center;
+}
+
+/*cor dos nomes do github e linked in e tamanho dos nome*/
+footer a{
+    color: rgb(240, 62, 180);
+    margin: 2px;
+}
+/*o espaço entre o texto e imagem e alinha com a imagem*/
+footer p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.center {
+ text-align:center
+
+
+}
+.sim {
+    margin-top: 10px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-line: underline; text-decoration-color: black ;
+        color: rgb(247, 60, 116);
+    
+}
+.nao {
+    font-size: 20px;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-line: underline; text-decoration-color: black ;
+        color: rgb(247, 60, 116);
+}
+.container {
+    padding: 0px 5px;
+}
+.momo {
+    text-align: center;
+}
+.meo {
+    text-align: center;
+    font-size: 20px;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-line: underline; text-decoration-color: black ;
+        color: rgb(247, 60, 116);
+}
+.top{
+    margin-top: 40px;
+}
+
+
